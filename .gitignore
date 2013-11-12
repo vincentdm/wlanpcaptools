@@ -15,3 +15,22 @@
 *Makefile.in
 *Makefile
 
+*.deps
+aclocal.m4
+autom4te.cache/
+common/config.h
+common/config.h.in
+common/stamp-h1
+config.guess
+config.log
+config.status
+config.sub
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+
+#resulting binary
+wlanmergecap/src/wlanmergecap
+
