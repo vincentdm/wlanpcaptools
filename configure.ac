@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([wlan-tools],[0.0.1], [vincentdm@gmail.com])
+AC_INIT([wlan-tools],[0.0.2], [vincentdm@gmail.com])
 AC_CONFIG_HEADERS([common/config.h])
 
 AM_INIT_AUTOMAKE
